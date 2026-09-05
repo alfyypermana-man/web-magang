@@ -63,7 +63,7 @@ export default function PublicLayout() {
                 <Link to="/login" className="btn-ghost btn-sm">
                   Masuk
                 </Link>
-                <Link to="/register/student" className="btn-accent btn-sm">
+                <Link to="/register" className="btn-accent btn-sm">
                   Daftar Sekarang
                 </Link>
               </>
